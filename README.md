@@ -1,0 +1,1 @@
+# ChatGPT-Xss-Payload-Generator
